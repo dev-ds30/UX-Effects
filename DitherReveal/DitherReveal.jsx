@@ -111,8 +111,7 @@ const DitherReveal = () => {
           </div>
           
           <p className="text-sm text-gray-600 leading-relaxed">
-            Turn insight to action. Prototypes let us pressure-test concepts in your real workflows, giving
-            tangible preview of how AI can perform. By starting small and proving value early, we build
+            Turn insight to action. By starting small and proving value early, we build
             confidence feedback and lay the groundwork for scalable deployment.
           </p>
           
